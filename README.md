@@ -25,4 +25,4 @@ loaded throughout multiple session.
 - [x] Sync todos throughout different sessions
 
 ### GUI Interface
-[gui_interface](https://github.com/Ninikitos/cli_todo/blob/main/gui_img/gui_img.png)
+(https://github.com/Ninikitos/cli_todo/blob/main/gui_img/gui_img.png)
